@@ -7,3 +7,4 @@ fetch('https://jsonplaceholder.typicode.com/posts/1')
       document.querySelector('#post').innerHTML = json.body
   });
 
+// test commit
